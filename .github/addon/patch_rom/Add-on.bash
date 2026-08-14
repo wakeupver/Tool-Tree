@@ -1,8 +1,8 @@
 # Add-on
 id=patch_rom
-name="Patch ROM"
+name="Patch ROM Old"
 author=Kakathic
-version=3.5
+version=9.0
 versionCode=350
 shortcut=true
 root=false
