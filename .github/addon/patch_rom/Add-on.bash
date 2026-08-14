@@ -1,5 +1,5 @@
 # Add-on
-id=patch_rom
+id=patch_mor
 name="Patch ROM Old"
 author=Kakathic
 version=9.0
